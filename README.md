@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C# .net development and of course LINQ
 - :iphone: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/nucab/)**
 - 💬 Ask me about anything related to React and its ecosystem. I will be happy to answer.
-- 📫 How to reach me: You can drop an email to me at noahjohn.ucab@gmail.com.
+- 📫 How to reach me: You can email me at noahjohn.ucab@gmail.com.
 - ⚡ Fun fact: React is actually a library, not a framework!
 
 <br />
@@ -202,7 +202,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="nucab-tech" >Top languages I used:</h2>
+<h2 align="left" id="nucab-tech" >Top languages I use:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nucab&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="nucab's GitHub Stats" />
 
