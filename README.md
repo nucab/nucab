@@ -1,7 +1,7 @@
 ## 👋 Hey there! I am Noah :)
 
 <a href="#nucab">
-  <img src="https://github-readme-stats.vercel.app/api?username=nucab&show_icons=true&theme=catppuccin_mocha&count_private=true&include_all_commits=true" alt="Noah" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nucab&theme=nightowl&hide_border=true" alt="Noah" align="right" />
 </a>
 
 - 🌱 I’m currently learning C# .net development and of course LINQ
@@ -11,14 +11,13 @@
 - ⚡ Fun fact: React is actually a library, not a framework!
 
 <br />
-<br />
 <h2 align="left" id="nucab-tech" >Tech Stack</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other things I like to work with.
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="120">
       <a href="#nucab-tech">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C_Sharp_Icon.png/180px-C_Sharp_Icon.png"
@@ -202,6 +201,10 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left" id="nucab-tech" >Top languages I used:</h2>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nucab&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="nucab's GitHub Stats" />
 
 <!--
 **nucab/nucab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
